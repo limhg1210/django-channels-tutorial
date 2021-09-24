@@ -1,0 +1,15 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+.venv/
